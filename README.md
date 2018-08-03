@@ -422,7 +422,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 
 ## RegExp
+
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
+* [Debuggex](https://www.debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
+* [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online regex tester and debugger for JavaScript.
+* [RegExPlanet](https://www.regexplanet.com/advanced/javascript/index.html) - Online regex tester and debugger for JavaScript. Also supports Go, Haskell, Java, .Net, Perl, PHP, PostgreSQL, Python, Ruby, Tcl & XRegExp.
+
 
 ## Media
 
